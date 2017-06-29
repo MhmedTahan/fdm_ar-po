@@ -1,0 +1,2767 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : (n%100>=3 && n%100<=10) ? 3 : n%100>=11 ? 4 : 5);\n"
+"X-Language: ar_EG\n"
+"X-Source-Language: en\n"
+"X-Qt-Contexts: true\n"
+"Project-Id-Version: FDM AR\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Mhmed_tahan@hotmail.com\n"
+"Language: ar\n"
+"X-Generator: Poedit 2.0.2\n"
+
+msgid "Download with FDM"
+msgstr "تحميل بـ FDM"
+
+msgid "Download selected with FDM"
+msgstr "تحميل المحدد بـ FDM"
+
+msgid "Download video with FDM"
+msgstr "تحميل الفيديو بـ FDM"
+
+msgid "Error: 0x%x. Failed to transfer downloads to FDM."
+msgstr "خطأ:  0x%x. فشل نقل النزيلات إلى FDM."
+
+msgid "No flash video found. Try reloading this page."
+msgstr "لا يوجد فيديو فلاش. حاول إعادة تحميل هذه الصفحة."
+
+#, qt-format
+msgctxt "Download|"
+msgid "Specified folder path is relative, full path is %1"
+msgstr "مسار المجلد المحدد نسبي، المسار الكامل هو %1"
+
+#, qt-format
+msgctxt "Download|"
+msgid "%1 B"
+msgstr "%1 ب."
+
+#, qt-format
+msgctxt "Download|"
+msgid "%1 KB"
+msgstr "%1 ك.ب."
+
+#, qt-format
+msgctxt "Download|"
+msgid "%1 MB"
+msgstr "%1 م.ب."
+
+#, qt-format
+msgctxt "Download|"
+msgid "Reconnecting in %1 seconds"
+msgstr "إعادة الاتصال خلال %1 ثانية"
+
+#, qt-format
+msgctxt "Download|"
+msgid "Priority set to %1"
+msgstr "تم تعيين الأولوية إلى 1%"
+
+msgctxt "Download|"
+msgid "Queued: Snail mode is on. Turn it off to continue"
+msgstr "قيد الانتظار: وضع القوقع قيد التشغيل. أوقف تشغيله للمتابعة"
+
+msgctxt "Download|"
+msgid "Queued"
+msgstr "قيد الانتظار"
+
+msgctxt "DownloadFileInfo|"
+msgid "Skip"
+msgstr "تخطي"
+
+msgctxt "DownloadFileInfo|"
+msgid "Low"
+msgstr "منخفضة"
+
+msgctxt "DownloadFileInfo|"
+msgid "Normal"
+msgstr "عادية"
+
+msgctxt "DownloadFileInfo|"
+msgid "High"
+msgstr "مرتفعة"
+
+msgctxt "DownloadInfo|"
+msgid "Low"
+msgstr "منخفضة"
+
+msgctxt "DownloadInfo|"
+msgid "Normal"
+msgstr "عادية"
+
+msgctxt "DownloadInfo|"
+msgid "High"
+msgstr "مرتفعة"
+
+#, qt-format
+msgctxt "HttpError|"
+msgid "HTTP Error %1: %2"
+msgstr "خطأ HTTP %1: %2"
+
+#, qt-format
+msgctxt "HttpError|"
+msgid "HTTP Error %1"
+msgstr "خطأ HTTP %1"
+
+msgctxt "HttpError|"
+msgid "Unknown error"
+msgstr "‏‏خطأ غير معروف"
+
+msgctxt "HttpError|"
+msgid "Remote host name not found"
+msgstr "تعذر العثور على اسم المضيف البعيد"
+
+msgctxt "HttpError|"
+msgid "Operation canceled"
+msgstr "ألغيت العملية"
+
+msgctxt "HttpError|"
+msgid "Remote server closed connection"
+msgstr "تم إغلاق الاتصال بالخادم البعيد"
+
+msgctxt "HttpError|"
+msgid "Connection timed out"
+msgstr "انتهت مهلة الاتصال"
+
+msgctxt "HttpError|"
+msgid "SSL/TLS handshake failed"
+msgstr "فشل مصادقة SSL/TLS"
+
+msgctxt "HttpError|"
+msgid "Connection refused"
+msgstr "تم رفض الاتصال"
+
+msgctxt "HttpError|"
+msgid "Unknown network-related error detected"
+msgstr "تم اكتشاف خطأ غير معروف متعلق بالشبكة"
+
+msgctxt "HttpError|"
+msgid "Requested operation is not permitted"
+msgstr "غير مسموح بالعملية المطلوبة"
+
+msgctxt "HttpError|"
+msgid "Bad Request"
+msgstr "طلب غير صحيح"
+
+msgctxt "HttpError|"
+msgid "Unauthorized"
+msgstr "غير مصرح به"
+
+msgctxt "HttpError|"
+msgid "Payment Required"
+msgstr "الدفع مطلوب"
+
+msgctxt "HttpError|"
+msgid "Forbidden"
+msgstr "ممنوع"
+
+msgctxt "HttpError|"
+msgid "Not Found"
+msgstr "غير موجود"
+
+msgctxt "HttpError|"
+msgid "Method Not Allowed"
+msgstr "الطريقة غير مسموح بها"
+
+msgctxt "HttpError|"
+msgid "Not Acceptable"
+msgstr "غير مقبول"
+
+msgctxt "HttpError|"
+msgid "Proxy Authentication Required"
+msgstr "مصادقة الخادم الوكيل مطلوبة"
+
+msgctxt "HttpError|"
+msgid "Request Timeout"
+msgstr "مهلة الطلب"
+
+msgctxt "HttpError|"
+msgid "Conflict"
+msgstr "تعارض"
+
+msgctxt "HttpError|"
+msgid "Gone"
+msgstr "لم يعد متوفر"
+
+msgctxt "HttpError|"
+msgid "Length Required"
+msgstr "الطول مطلوب"
+
+msgctxt "HttpError|"
+msgid "Precondition Failed"
+msgstr "فشل الشرط المسبق"
+
+msgctxt "HttpError|"
+msgid "Request Entity Too Large"
+msgstr "كيان الطلب كبير جداً"
+
+msgctxt "HttpError|"
+msgid "Request-URI Too Long"
+msgstr "رابط الطلب طويل جداً"
+
+msgctxt "HttpError|"
+msgid "Unsupported Media Type"
+msgstr "نوع وسائط غير مدعوم"
+
+msgctxt "HttpError|"
+msgid "Requested Range Not Satisfiable"
+msgstr "النطاق المطلوب غير كافِ"
+
+msgctxt "HttpError|"
+msgid "Expectation Failed"
+msgstr "فشل التوقع"
+
+msgctxt "HttpError|"
+msgid "I'm a teapot"
+msgstr "أنا إبريق شاي"
+
+msgctxt "HttpError|"
+msgid "Authentication Timeout"
+msgstr "مهلة المصادقة"
+
+msgctxt "HttpError|"
+msgid "Method Failure / Enhance Your Calm"
+msgstr "فشل الطريقة/عزز هدوئك"
+
+msgctxt "HttpError|"
+msgid "Unprocessable Entity"
+msgstr "كيان غير قابل للمعالجة"
+
+msgctxt "HttpError|"
+msgid "Locked"
+msgstr "مقفل"
+
+msgctxt "HttpError|"
+msgid "Failed Dependency / Method Failure"
+msgstr "فشل التبعية/فشل الطريقة"
+
+msgctxt "HttpError|"
+msgid "Unordered Collection"
+msgstr "مجموعة غير مرتبة"
+
+msgctxt "HttpError|"
+msgid "Upgrade Required"
+msgstr "الترقية مطلوبة"
+
+msgctxt "HttpError|"
+msgid "Precondition Required"
+msgstr "الشرط المسبق مطلوب"
+
+msgctxt "HttpError|"
+msgid "Too Many Requests"
+msgstr "طلبات كثيرة جدا"
+
+msgctxt "HttpError|"
+msgid "Request Header Fields Too Large"
+msgstr "حقول عنوان الطلب كبيرة جدا"
+
+msgctxt "HttpError|"
+msgid "Login Timeout"
+msgstr "مهلة تسجيل الدخول"
+
+msgctxt "HttpError|"
+msgid "No Response"
+msgstr "بدون استجابة"
+
+msgctxt "HttpError|"
+msgid "Retry With"
+msgstr "أعد المحاولة باستخدام"
+
+msgctxt "HttpError|"
+msgid "Blocked by Windows Parental Controls"
+msgstr "محظور بواسطة المراقبة الأبوية لـ Windows"
+
+msgctxt "HttpError|"
+msgid "Unavailable For Legal Reasons"
+msgstr "غير متاح لأسباب قانونية"
+
+msgctxt "HttpError|"
+msgid "Request Header Too Large"
+msgstr "عنوان الطلب كبير جدا"
+
+msgctxt "HttpError|"
+msgid "Cert Error"
+msgstr "خطأ في الشهادة"
+
+msgctxt "HttpError|"
+msgid "No Cert"
+msgstr "لا توجد شهادة"
+
+msgctxt "HttpError|"
+msgid "HTTP to HTTPS"
+msgstr "HTTP إلى HTTPS"
+
+msgctxt "HttpError|"
+msgid "Token expired/invalid"
+msgstr "الرمز المميز انتهت مدة صلاحيته/غير صالح"
+
+msgctxt "HttpError|"
+msgid "Client Closed Request"
+msgstr "أغلق العميل الطلب"
+
+msgctxt "HttpError|"
+msgid "Internal Server Error"
+msgstr "خطأ داخلي في الخادم"
+
+msgctxt "HttpError|"
+msgid "Not Implemented"
+msgstr "غير مٌنفذ"
+
+msgctxt "HttpError|"
+msgid "Bad Gateway"
+msgstr "بوابة غير صحيحة"
+
+msgctxt "HttpError|"
+msgid "Service Unavailable"
+msgstr "الخدمة غير متاحة"
+
+msgctxt "HttpError|"
+msgid "Gateway Timeout"
+msgstr "مهلة البوابة"
+
+msgctxt "HttpError|"
+msgid "HTTP Version Not Supported"
+msgstr "إصدار HTTP غير معتمد"
+
+msgctxt "HttpError|"
+msgid "Variant Also Negotiates"
+msgstr "المتغير يفاوض أيضاً"
+
+msgctxt "HttpError|"
+msgid "Insufficient Storage"
+msgstr "مساحة تخزين غير كافية"
+
+msgctxt "HttpError|"
+msgid "Loop Detected"
+msgstr "تم الكشف عن تكرار"
+
+msgctxt "HttpError|"
+msgid "Bandwidth Limit Exceeded"
+msgstr "تم تجاوز حد عرض النطاق"
+
+msgctxt "HttpError|"
+msgid "Not Extended"
+msgstr "غير موسع"
+
+msgctxt "HttpError|"
+msgid "Network Authentication Required"
+msgstr "مصادقة الشبكة مطلوبة"
+
+msgctxt "HttpError|"
+msgid "Network read timeout error"
+msgstr "خطأ في مهلة قراءة الشبكة"
+
+msgctxt "HttpError|"
+msgid "Network connect timeout error"
+msgstr "خطأ في مهلة اتصال الشبكة"
+
+#, qt-format
+msgctxt "HttpFileDownload|"
+msgid "Maximum number of connections is %1"
+msgstr "الحد الأقصى لعدد الاتصالات هو %1"
+
+msgctxt "HttpFileDownload|"
+msgid "unlimited"
+msgstr "غير محدد"
+
+msgctxt "HttpFileDownload|"
+msgid "Download speed is unlimited"
+msgstr "سرعة التنزيل غير محدودة"
+
+#, qt-format
+msgctxt "HttpFileDownload|"
+msgid "Download speed is limited to %1/s"
+msgstr "سرعة التنزيل محددة بـ %1/s"
+
+msgctxt "HttpFileDownload|"
+msgid "Can't resume downloading file"
+msgstr "لا يمكن استئناف تنزيل الملف"
+
+msgctxt "HttpFileDownload|"
+msgid "Reconnecting"
+msgstr "يعيد الاتصال"
+
+msgctxt "HttpFileDownload|"
+msgid "Starting download"
+msgstr "يبدء التنزيل"
+
+msgctxt "HttpFileDownload|"
+msgid "Pausing download"
+msgstr "يوقف التنزيل"
+
+msgctxt "HttpFileDownload|"
+msgid "Failed to resume as URL changed"
+msgstr "فشل الاستئناف بسبب تغير الرابط"
+
+#, qt-format
+msgctxt "HttpFileDownload|"
+msgid "Moving file to %1"
+msgstr "ينقل الملف إلى %1"
+
+#, qt-format
+msgctxt "HttpFileDownload|"
+msgid "File \"%1\" exists. Saving as %2"
+msgstr "الملف \"%1\" موجود. حفظ كـ %2"
+
+msgctxt "HttpFileDownload|"
+msgid "Restarting download"
+msgstr "يعيد بدء التنزيل"
+
+msgctxt "HttpFileDownload|"
+msgid "Failed to clear contents of original file."
+msgstr "فشل في مسح محتويات الملف الأصلي."
+
+#, qt-format
+msgctxt "HttpFileDownload|"
+msgid "File is renamed to %1"
+msgstr "تم إعادة تسمية الملف إلى %1"
+
+#, qt-format
+msgctxt "HttpFileDownload|"
+msgid "Reusing connection #%1"
+msgstr "يعيد استخدام الاتصال #%1"
+
+#, qt-format
+msgctxt "HttpFileDownload|"
+msgid "Opening connection #%1"
+msgstr "يفتح الاتصال #%1"
+
+#, qt-format
+msgctxt "HttpFileDownload|"
+msgid "#%1 closed"
+msgstr "#%1 مغلق"
+
+msgctxt "HttpFileDownload|"
+msgid "Failed to complete the download"
+msgstr "فشل إكمال التنزيل"
+
+msgctxt "HttpFileDownload|"
+msgid "Opening file on disk..."
+msgstr "يفتح الملف على القرص..."
+
+msgctxt "HttpFileDownload|"
+msgid "File is missing"
+msgstr "الملف مفقود"
+
+msgctxt "HttpFileDownload|"
+msgid "Download complete"
+msgstr "اكتمل التنزيل"
+
+msgctxt "HttpFileDownload|"
+msgid "Removing temporary file extension"
+msgstr "يزيل امتداد الملف المؤقت"
+
+msgctxt "HttpFileDownload|"
+msgid "Preallocating disk space for download"
+msgstr "إعادة تعيين مساحة القرص للتنزيل"
+
+msgctxt "HttpFileDownload|"
+msgid "Unexpected error"
+msgstr "خطأ غير متوقع"
+
+msgctxt "HttpFileDownload|"
+msgid "File changed on remote server"
+msgstr "الملف تم تغييره على الخادم البعيد"
+
+#, qt-format
+msgctxt "HttpFileDownload|"
+msgid "Couldn't reuse connection #%1, closing"
+msgstr "لا يمكن إعادة استخدام الاتصال #%1، إغلاق"
+
+msgctxt "HttpFileDownload|"
+msgid "Failed writing received data to file"
+msgstr "فشل كتابة البيانات الواردة إلى الملف"
+
+#, qt-format
+msgctxt "HttpFileDownload|"
+msgid "#%1 receiving data"
+msgstr "#%1 يتلقى البيانات"
+
+#, qt-format
+msgctxt "HttpFileDownload|"
+msgid "downloaded %1"
+msgstr "تم تنزيل %1"
+
+#, qt-format
+msgctxt "HttpFileDownload|"
+msgid "(%1/s)"
+msgstr "(%1/ث)"
+
+#, qt-format
+msgctxt "HttpFileDownload|"
+msgid "Redirecting to %1"
+msgstr "إعادة توجيه إلى %1"
+
+#, qt-format
+msgctxt "HttpFileDownload|"
+msgid "#%1: server ignored partial content request"
+msgstr "#%1: تجاهل الخادم طلب محتوى جزئي"
+
+#, qt-format
+msgctxt "HttpFileDownload|"
+msgid "#%1 failed with error: %2"
+msgstr "#%1 فشل مع الخطأ: %2"
+
+msgctxt "HttpFileDownload|"
+msgid "File moved successfully"
+msgstr "تم نقل الملف بنجاح"
+
+msgctxt "HttpFileDownload|"
+msgid "File moving failed"
+msgstr "فشل نقل الملف"
+
+#, qt-format
+msgctxt "HttpFileDownload|"
+msgid "Preallocation failed: %1"
+msgstr "فشل إعادة التعيين: %1"
+
+#, qt-format
+msgctxt "HttpFileDownload|"
+msgid "%1 finished successfully"
+msgstr "%1 انتهى بنجاح"
+
+#, qt-format
+msgctxt "HttpFileDownload|"
+msgid ", average speed: %1"
+msgstr "، متوسط السرعة: %1"
+
+msgctxt "HttpFileDownload|"
+msgid "Space allocation"
+msgstr "تخصيص المساحة"
+
+msgctxt "HttpFileDownload|"
+msgid "Move"
+msgstr "نقل"
+
+msgctxt "HttpFileDownload|"
+msgid "Preallocation cancelled"
+msgstr "تم إلغاء إعادة التعيين"
+
+msgctxt "HttpFileDownload|"
+msgid "Preallocating queued"
+msgstr "إعادة التعيين في الانتظار"
+
+msgctxt "HttpFileDownload|"
+msgid "Preallocating started"
+msgstr "تم بدء إعادة التعيين"
+
+msgctxt "MacMainMenu|"
+msgid "Add Download from URL..."
+msgstr "أضف تنزيل من رابط..."
+
+msgctxt "MacMainMenu|"
+msgid "Open Torrent File..."
+msgstr "فتح ملف التورنت..."
+
+msgctxt "MacMainMenu|"
+msgid "Edit"
+msgstr "تعديل"
+
+msgctxt "MacMainMenu|"
+msgid "Remove from List"
+msgstr "حذف من القائمة"
+
+#, qt-format
+msgctxt "MacMainMenu|"
+msgid "About %1"
+msgstr "حول %1"
+
+msgctxt "MacMainMenu|"
+msgid "Preferences..."
+msgstr "التفضيلات..."
+
+msgctxt "MacMainMenu|"
+msgid "Check for Updates..."
+msgstr "التحقق من التحديثات..."
+
+msgctxt "MacMainMenu|"
+msgid "Start Selected"
+msgstr "بدء المحدد"
+
+msgctxt "MacMainMenu|"
+msgid "Pause Selected"
+msgstr "إيقاف المحدد"
+
+msgctxt "MacMainMenu|"
+msgid "Restart Selected"
+msgstr "إعادة بدء المحدد"
+
+msgctxt "MacMainMenu|"
+msgid "Contact Support"
+msgstr "اتصل بالدعم"
+
+msgctxt "MacMainMenu|"
+msgid "Vote for New Features"
+msgstr "التصويت للميزات الجديدة"
+
+msgctxt "MacMainMenu|"
+msgid "File"
+msgstr "ملف"
+
+msgctxt "MacMainMenu|"
+msgid "Downloads"
+msgstr "التنزيلات"
+
+msgctxt "MacMainMenu|"
+msgid "Help"
+msgstr "مساعدة"
+
+msgctxt "QObject|"
+msgid "About Free Download Manager"
+msgstr "حول Free Download Manager"
+
+msgctxt "QObject|"
+msgid "Preferences"
+msgstr "التفضيلات"
+
+msgctxt "QObject|"
+msgid "Check for Updates..."
+msgstr "التحقق من التحديثات..."
+
+msgctxt "QObject|"
+msgid "Window"
+msgstr "النافذة"
+
+msgctxt "QObject|"
+msgid "Minimize"
+msgstr "تصغير"
+
+msgctxt "QObject|"
+msgid "Zoom"
+msgstr "تكبير"
+
+msgctxt "QObject|"
+msgid "Enter Full Screen"
+msgstr "دخول ملء الشاشة"
+
+msgctxt "QObject|"
+msgid "Bring All to Front"
+msgstr "يحضر الكل إلى الواجهة"
+
+msgctxt "QObject|"
+msgid "Contact Support"
+msgstr "اتصل بالدعم"
+
+msgctxt "QObject|"
+msgid "Open Torrent File..."
+msgstr "فتح ملف تورنت..."
+
+msgctxt "QObject|"
+msgid "File"
+msgstr "ملف"
+
+msgctxt "QObject|"
+msgid "Select All"
+msgstr "تحديد الكل"
+
+msgctxt "QObject|"
+msgid "Delete"
+msgstr "حذف"
+
+msgctxt "QObject|"
+msgid "Paste"
+msgstr "لصق"
+
+msgctxt "QObject|"
+msgid "Copy"
+msgstr "نسخ"
+
+msgctxt "QObject|"
+msgid "Cut"
+msgstr "قص"
+
+msgctxt "QObject|"
+msgid "Edit"
+msgstr "تعديل"
+
+msgctxt "QObject|"
+msgid "Help"
+msgstr "مساعدة"
+
+msgctxt "QObject|"
+msgid "Something went wrong with internal downloads."
+msgstr "حدث خطأ مع التنزيلات الداخلية."
+
+msgctxt "QObject|"
+msgid "Selected filepath is not valid."
+msgstr "مسار الملف المحدد غير صالح."
+
+msgctxt "QObject|"
+msgid "Selected filename is too long"
+msgstr "اسم الملف المحدد طويل جداً"
+
+msgctxt "QObject|"
+msgid "Selected filename is not valid."
+msgstr "اسم الملف المحدد غير صالح."
+
+msgctxt "QObject|"
+msgid "Specified directory can't be accessed."
+msgstr "لا يمكن المسار إلى الدليل المحدد."
+
+msgctxt "QObject|"
+msgid "Confirm"
+msgstr "تأكيد"
+
+msgctxt "QObject|"
+msgid "Attention! "
+msgstr "انتباه"
+
+msgctxt "QObject|"
+msgid "Your computer will be put to Sleep mode."
+msgstr "حاسوبك سيوضع في وضع السكون."
+
+msgctxt "QObject|"
+msgid "Your computer will be hibernated."
+msgstr "حاسوبك سيتم اسبته."
+
+msgctxt "QObject|"
+msgid "Your computer will be shut down."
+msgstr "حاسوبك سيتم إيقاف تشغيله."
+
+msgctxt "QObject|"
+msgid "Files are missing"
+msgstr "الملفات مفقودة"
+
+msgctxt "QObject|"
+msgid "File is missing"
+msgstr "الملف مفقود"
+
+msgctxt "QObject|"
+msgid "Incorrect login or password"
+msgstr "كلمة السر أو تسجيل الدخول غير صحيح"
+
+msgctxt "RPCLocalization|"
+msgid "locale"
+msgstr "إعدادات محلية"
+
+msgctxt "RPCLocalization|"
+msgid "Drag & Drop"
+msgstr "سحب و إفلات"
+
+msgctxt "RPCLocalization|"
+msgid "URL or torrent here"
+msgstr "رابط أو تورنت هنا"
+
+msgctxt "RPCLocalization|"
+msgid "Add tag"
+msgstr "إضافة وسم"
+
+msgctxt "RPCLocalization|"
+msgid "Preferences"
+msgstr "التفضيلات"
+
+msgctxt "RPCLocalization|"
+msgid "Unlimited"
+msgstr "غير محدود"
+
+msgctxt "RPCLocalization|"
+msgid "Manual..."
+msgstr "يدوي..."
+
+msgctxt "RPCLocalization|"
+msgid "Set limits manually"
+msgstr "تعيين الحدود يدويا"
+
+msgctxt "RPCLocalization|"
+msgid "Download: unlimited, Upload: unlimited"
+msgstr "التنزيل: غير محدود، الرفع: غير محدود"
+
+msgctxt "RPCLocalization|"
+msgid "Download:"
+msgstr "التنزيل:"
+
+msgctxt "RPCLocalization|"
+msgid "Upload:"
+msgstr "الرفع:"
+
+msgctxt "RPCLocalization|"
+msgid "unlimited"
+msgstr "غير محدد"
+
+msgctxt "RPCLocalization|"
+msgid "Snail mode frees bandwidth without stopping downloads."
+msgstr "وضع القوقع يخلي عرض النطاق الترددي بدون إيقاف التنزيلات."
+
+msgctxt "RPCLocalization|"
+msgid "Hide details"
+msgstr "إخفاء التفاصيل"
+
+msgctxt "RPCLocalization|"
+msgid "Show details"
+msgstr "عرض التفاصيل"
+
+#, qt-format
+msgctxt "RPCLocalization|"
+msgid "%n files selected."
+msgid_plural "%n files selected."
+msgstr[0] "%n ملف محدد."
+msgstr[1] "ملف واحد محدد."
+msgstr[2] "ملفان محددان."
+msgstr[3] "%n ملفات محددة."
+msgstr[4] "%n ملفا محددا"
+msgstr[5] "%n ملف محدد"
+
+msgctxt "RPCLocalization|"
+msgid "Show in folder"
+msgstr "إظهار في المجلد"
+
+msgctxt "RPCLocalization|"
+msgid "Reveal in Finder"
+msgstr "إظهار في الباحث"
+
+msgctxt "RPCLocalization|"
+msgid "Pause"
+msgstr "إيقاف"
+
+msgctxt "RPCLocalization|"
+msgid "Restart"
+msgstr "إعادة البدء"
+
+msgctxt "RPCLocalization|"
+msgid "Start"
+msgstr "البدء"
+
+msgctxt "RPCLocalization|"
+msgid "Selected size:"
+msgstr "الحجم المحدد:"
+
+msgctxt "RPCLocalization|"
+msgid "Size:"
+msgstr "الحجم: "
+
+msgctxt "RPCLocalization|"
+msgid "File size:"
+msgstr "حجم الملف:"
+
+msgctxt "RPCLocalization|"
+msgid "Disk space:"
+msgstr "مساحة القرص:"
+
+msgctxt "RPCLocalization|"
+msgid "Total size:"
+msgstr "الحجم الإجمالي:"
+
+msgctxt "RPCLocalization|"
+msgid "Checked size:"
+msgstr "الحجم المفحوص:"
+
+msgctxt "RPCLocalization|"
+msgid "Downloaded:"
+msgstr "تم تنزيل:"
+
+msgctxt "RPCLocalization|"
+msgid "Download speed:"
+msgstr "سرعة التنزيل:"
+
+msgctxt "RPCLocalization|"
+msgid "Seeds:"
+msgstr "تلقيمات:"
+
+msgctxt "RPCLocalization|"
+msgid "Domain:"
+msgstr "النطاق:"
+
+msgctxt "RPCLocalization|"
+msgid "Uploaded:"
+msgstr "تم رفع:"
+
+msgctxt "RPCLocalization|"
+msgid "Upload speed:"
+msgstr "سرعة الرفع:"
+
+msgctxt "RPCLocalization|"
+msgid "Peers:"
+msgstr "النظراء:"
+
+msgctxt "RPCLocalization|"
+msgid "Share ratio:"
+msgstr "نسبة المشاركة:"
+
+msgctxt "RPCLocalization|"
+msgid "Availability:"
+msgstr "التوافر:"
+
+msgctxt "RPCLocalization|"
+msgid "DHT nodes:"
+msgstr "نقاط DHT:"
+
+msgctxt "RPCLocalization|"
+msgid "IP"
+msgstr "رقم IP"
+
+msgctxt "RPCLocalization|"
+msgid "Client"
+msgstr "العميل"
+
+msgctxt "RPCLocalization|"
+msgid "Flags"
+msgstr "مؤشرات"
+
+msgctxt "RPCLocalization|"
+msgid "Requests"
+msgstr "الطلبات"
+
+msgctxt "RPCLocalization|"
+msgid "Downloaded"
+msgstr "تم تنزيل"
+
+msgctxt "RPCLocalization|"
+msgid "Uploaded"
+msgstr "تم رفع"
+
+msgctxt "RPCLocalization|"
+msgid "Files"
+msgstr "ملفات"
+
+msgctxt "RPCLocalization|"
+msgid "Trackers"
+msgstr "وحدات التتبع"
+
+msgctxt "RPCLocalization|"
+msgid "Peers"
+msgstr "النظراء"
+
+msgctxt "RPCLocalization|"
+msgid "Log"
+msgstr "السجل"
+
+msgctxt "RPCLocalization|"
+msgid "Enable seeding"
+msgstr "تمكين التلقيم"
+
+msgctxt "RPCLocalization|"
+msgid "Progress"
+msgstr "التقدم"
+
+msgctxt "RPCLocalization|"
+msgid "Priority"
+msgstr "الأولوية"
+
+msgctxt "RPCLocalization|"
+msgid "URL"
+msgstr "رابط"
+
+msgctxt "RPCLocalization|"
+msgid "Next announce"
+msgstr "الإعلان التالي"
+
+msgctxt "RPCLocalization|"
+msgid "Snail mode"
+msgstr "وضع القوقع"
+
+msgctxt "RPCLocalization|"
+msgid "Traffic limits"
+msgstr "حدود نقل البيانات"
+
+msgctxt "RPCLocalization|"
+msgid "Cancel"
+msgstr "إلغاء"
+
+msgctxt "RPCLocalization|"
+msgid "Apply"
+msgstr "تطبيق"
+
+msgctxt "RPCLocalization|"
+msgid "Browser integration"
+msgstr "تكامل المتصفح"
+
+msgctxt "RPCLocalization|"
+msgid "Next"
+msgstr "التالي"
+
+msgctxt "RPCLocalization|"
+msgid "Proceed to download"
+msgstr "المتابعة إلى التنزيل"
+
+msgctxt "RPCLocalization|"
+msgid "Add download"
+msgstr "إضافة تنزيل"
+
+msgctxt "RPCLocalization|"
+msgid "Enter download URL:"
+msgstr "ادخل رابط للتنزيل:"
+
+msgctxt "RPCLocalization|"
+msgid "OK"
+msgstr "موافق"
+
+msgctxt "RPCLocalization|"
+msgid "Download"
+msgstr "تنزيل"
+
+msgctxt "RPCLocalization|"
+msgid "Download anyway"
+msgstr "تنزيل على أي حال"
+
+msgctxt "RPCLocalization|"
+msgid "Add"
+msgstr "إضافة"
+
+msgctxt "RPCLocalization|"
+msgid "torrent"
+msgstr "تورنت"
+
+msgctxt "RPCLocalization|"
+msgid "Save to:"
+msgstr "حفظ إلى:"
+
+msgctxt "RPCLocalization|"
+msgid "Select folder"
+msgstr "تحديد المجلد"
+
+msgctxt "RPCLocalization|"
+msgid "Requesting download info..."
+msgstr "يطلب معلومات التنزيل..."
+
+msgctxt "RPCLocalization|"
+msgid "Quality:"
+msgstr "الجودة:"
+
+msgctxt "RPCLocalization|"
+msgid "Select all"
+msgstr "اختر الكل"
+
+msgctxt "RPCLocalization|"
+msgid "Select none"
+msgstr "لا تختر شيئاً"
+
+msgctxt "RPCLocalization|"
+msgid "Torrent already exists"
+msgstr "التورنت موجود بالفعل"
+
+msgctxt "RPCLocalization|"
+msgid "Want to load its trackers?"
+msgstr "هل تريد تنزيل المتعقبات؟"
+
+msgctxt "RPCLocalization|"
+msgid "No active downloads"
+msgstr "لا توجد تنزيلات نشطة"
+
+msgctxt "RPCLocalization|"
+msgid "No completed downloads"
+msgstr "لا توجد تنزيلات مكتملة"
+
+msgctxt "RPCLocalization|"
+msgid "No results found for"
+msgstr "لا توجد نتائج لـ"
+
+msgctxt "RPCLocalization|"
+msgid "No results tagged"
+msgstr "لا توجد نتائج موسومة"
+
+msgctxt "RPCLocalization|"
+msgid "found"
+msgstr "وجد"
+
+msgctxt "RPCLocalization|"
+msgid "Show all"
+msgstr "إظهار الكل"
+
+msgctxt "RPCLocalization|"
+msgid "Nothing found"
+msgstr "لم يعثر على شيء"
+
+msgctxt "RPCLocalization|"
+msgid "Moving"
+msgstr "ينقل"
+
+msgctxt "RPCLocalization|"
+msgid "Unknown file size"
+msgstr "حجم الملف غير معروف"
+
+msgctxt "RPCLocalization|"
+msgid "Merging media streams"
+msgstr "يدمج دفق الوسائط"
+
+msgctxt "RPCLocalization|"
+msgid "Allocating disk space..."
+msgstr "يخصص مساحة على القرص..."
+
+msgctxt "RPCLocalization|"
+msgid "Reconnecting..."
+msgstr "يعيد الاتصال..."
+
+msgctxt "RPCLocalization|"
+msgid "Reconnecting"
+msgstr "إعادة الاتصال"
+
+msgctxt "RPCLocalization|"
+msgid "Paused"
+msgstr "متوقف مؤقتا"
+
+msgctxt "RPCLocalization|"
+msgid "Downloading metadata"
+msgstr "ينزل البيانات الوصفية"
+
+msgctxt "RPCLocalization|"
+msgid "Downloading"
+msgstr "تنزيل"
+
+msgctxt "RPCLocalization|"
+msgid "Error"
+msgstr "خطأ"
+
+msgctxt "RPCLocalization|"
+msgid "Checking files..."
+msgstr "التحقق من الملفات..."
+
+msgctxt "RPCLocalization|"
+msgid "Downloading, allocating disk space..."
+msgstr "تنزيل، تخصيص مساحة القرص..."
+
+#, qt-format
+msgctxt "RPCLocalization|"
+msgid "Completed %n / %2 files"
+msgid_plural "Completed %n / %2 files"
+msgstr[0] "اكتمل %n / %2 ملفات"
+msgstr[1] "اكتمل %n / %2 ملفات"
+msgstr[2] "اكتمل %n / %2 ملفات"
+msgstr[3] "اكتمل %n / %2 ملفات"
+msgstr[4] "اكتمل %n / %2 ملفات"
+msgstr[5] "اكتمل %n / %2 ملفات"
+
+msgctxt "RPCLocalization|"
+msgid "Complete"
+msgstr "مكتمل"
+
+msgctxt "RPCLocalization|"
+msgid "Queued"
+msgstr "قيد الاِنتظار"
+
+msgctxt "RPCLocalization|"
+msgid "Stop seeding"
+msgstr "إيقاف التلقيم"
+
+msgctxt "RPCLocalization|"
+msgid "Requesting info..."
+msgstr "طلب المعلومات..."
+
+msgctxt "RPCLocalization|"
+msgid "Open torrent file..."
+msgstr "فتح ملف التورنت..."
+
+msgctxt "RPCLocalization|"
+msgid "Preferences..."
+msgstr "التفضيلات..."
+
+msgctxt "RPCLocalization|"
+msgid "Settings..."
+msgstr "الإعدادات..."
+
+msgctxt "RPCLocalization|"
+msgid "Settings"
+msgstr " الإعدادات"
+
+msgctxt "RPCLocalization|"
+msgid "Contact support"
+msgstr "الاتصال بالدعم"
+
+msgctxt "RPCLocalization|"
+msgid "Auto shutdown"
+msgstr "إيقاف التشغيل تلقائياً"
+
+msgctxt "RPCLocalization|"
+msgid "Sleep"
+msgstr "سكون"
+
+msgctxt "RPCLocalization|"
+msgid "Hibernate"
+msgstr "إسبات"
+
+msgctxt "RPCLocalization|"
+msgid "Shutdown"
+msgstr "إيقاف التشغيل"
+
+msgctxt "RPCLocalization|"
+msgid "Check for updates"
+msgstr "تحقق من التحديثات"
+
+msgctxt "RPCLocalization|"
+msgid "About Free Download Manager"
+msgstr "حول Free Download Manager"
+
+msgctxt "RPCLocalization|"
+msgid "Quit"
+msgstr "إنهاء"
+
+msgctxt "RPCLocalization|"
+msgid "Exit"
+msgstr "خروج"
+
+msgctxt "RPCLocalization|"
+msgid "Vote for new features"
+msgstr "التصويت للميزات الجديدة"
+
+msgctxt "RPCLocalization|"
+msgid "About FDM"
+msgstr "حول FDM"
+
+msgctxt "RPCLocalization|"
+msgid "Are you sure this is a valid file extension?"
+msgstr "هل أنت متأكد من أن هذا امتداد ملف صالح؟"
+
+msgctxt "RPCLocalization|"
+msgid "Please enter numbers only"
+msgstr "يرجى إدخال أرقام فقط"
+
+msgctxt "RPCLocalization|"
+msgid "Are you sure it's not too small?"
+msgstr "هل أنت متأكد أنه ليس صغير جداً؟"
+
+msgctxt "RPCLocalization|"
+msgid "Why should it be so huge?"
+msgstr "لماذا ينبغي أن يكون ضخماً جداً؟"
+
+msgctxt "RPCLocalization|"
+msgid "Extremely slow, isn't it?"
+msgstr "بطيئ للغاية، أليس كذلك؟"
+
+msgctxt "RPCLocalization|"
+msgid "Faster doesn't mean better"
+msgstr "أسرع لا يعني أفضل"
+
+msgctxt "RPCLocalization|"
+msgid "Isn't it too frequent?"
+msgstr "أليس كثير التكرار؟"
+
+msgctxt "RPCLocalization|"
+msgid "Pretty rare to move with the time."
+msgstr "نادر جداً التحرك مع الوقت."
+
+msgctxt "RPCLocalization|"
+msgid "Maybe you'd let it be a little longer?"
+msgstr "ربما يمكنك تركه لفترة أطول قليلاً؟"
+
+msgctxt "RPCLocalization|"
+msgid "Are you sure it's not too long?"
+msgstr "هل أنت متأكد من أنه ليس طويل جداً؟"
+
+#, qt-format
+msgctxt "RPCLocalization|"
+msgid "Only %n records? FDM can store much more!"
+msgid_plural "Only %n records? FDM can store much more!"
+msgstr[0] "فقط %n سجلات? FDM يمكنه تخزين المزيد!"
+msgstr[1] "فقط %n سجلات? FDM يمكنه تخزين المزيد!"
+msgstr[2] "فقط %n سجلات? FDM يمكنه تخزين المزيد!"
+msgstr[3] "فقط %n سجلات? FDM يمكنه تخزين المزيد!"
+msgstr[4] "فقط %n سجل? FDM يمكنه تخزين المزيد!"
+msgstr[5] "فقط %n سجل? FDM يمكنه تخزين المزيد!"
+
+#, qt-format
+msgctxt "RPCLocalization|"
+msgid "%n records is too many to save."
+msgid_plural "%n records is too many to save."
+msgstr[0] "%n سجل يعتبر كثير جداً لحفظه."
+msgstr[1] "%n سجل يعتبر كثير جدا لحفظه."
+msgstr[2] "%n سجل يعتبر كثير جدا لحفظه."
+msgstr[3] "%n سجل يعتبر كثير جدا لحفظه."
+msgstr[4] "%n سجل يعتبر كثير جدا لحفظه."
+msgstr[5] "%n سجل يعتبر كثير جدا لحفظه."
+
+msgctxt "RPCLocalization|"
+msgid "Do you actually want to connect?"
+msgstr "هل تريد فعلاً الاتصال؟"
+
+msgctxt "RPCLocalization|"
+msgid "Oh no, too many connections!"
+msgstr "أوه لا، عدد كبير جداً من الاتصالات!"
+
+msgctxt "RPCLocalization|"
+msgid "It seems like an understatement."
+msgstr "يبدو وكأنه تصريح مكبوح."
+
+msgctxt "RPCLocalization|"
+msgid "So many? It's overwhelming!"
+msgstr "كثير جداً؟ إنه امتلاء!"
+
+msgctxt "RPCLocalization|"
+msgid "General"
+msgstr "عام"
+
+msgctxt "RPCLocalization|"
+msgid "Browser Integration"
+msgstr "تكامل المتصفح"
+
+msgctxt "RPCLocalization|"
+msgid "BitTorrent"
+msgstr "BitTorrent"
+
+msgctxt "RPCLocalization|"
+msgid "Traffic Limits"
+msgstr "حدود نقل البيانات"
+
+msgctxt "RPCLocalization|"
+msgid "Advanced"
+msgstr "متقدم"
+
+msgctxt "RPCLocalization|"
+msgid "Network"
+msgstr "الشبكة"
+
+msgctxt "RPCLocalization|"
+msgid "Proxy"
+msgstr "الخادم الوكيل"
+
+msgctxt "RPCLocalization|"
+msgid "No proxy"
+msgstr "بدون خادم وكيل"
+
+msgctxt "RPCLocalization|"
+msgid "System proxy"
+msgstr "الخادم الوكيل للنظام"
+
+msgctxt "RPCLocalization|"
+msgid "Configure manually:"
+msgstr "تكوين يدوي:"
+
+msgctxt "RPCLocalization|"
+msgid "HTTP:"
+msgstr "HTTP:"
+
+msgctxt "RPCLocalization|"
+msgid "HTTPS:"
+msgstr "HTTPS:"
+
+msgctxt "RPCLocalization|"
+msgid "FTP:"
+msgstr "FTP:"
+
+msgctxt "RPCLocalization|"
+msgid "Address"
+msgstr "العنوان"
+
+msgctxt "RPCLocalization|"
+msgid "Port"
+msgstr "المنفذ"
+
+msgctxt "RPCLocalization|"
+msgid "Login"
+msgstr "الدخول"
+
+msgctxt "RPCLocalization|"
+msgid "Password"
+msgstr "كلمة السر"
+
+msgctxt "RPCLocalization|"
+msgid "Startup"
+msgstr "بدء التشغيل"
+
+msgctxt "RPCLocalization|"
+msgid "Downloads"
+msgstr "التنزيلات"
+
+msgctxt "RPCLocalization|"
+msgid "Launch at startup (minimized)"
+msgstr "البدء مع بدء التشغيل (مصغر)"
+
+msgctxt "RPCLocalization|"
+msgid "Open at Login"
+msgstr "فتح عند تسجيل الدخول"
+
+msgctxt "RPCLocalization|"
+msgid "Close button minimizes window"
+msgstr "زر الإغلاق يصغر النافذة"
+
+msgctxt "RPCLocalization|"
+msgid "Check if FDM is your default torrent client"
+msgstr "تحقق من أن FDM هو عميل التورنت الافتراضي خاصتك"
+
+msgctxt "RPCLocalization|"
+msgid "Update"
+msgstr "تحديث"
+
+msgctxt "RPCLocalization|"
+msgid "Check for updates automatically"
+msgstr "التحقق من وجود تحديثات تلقائياً"
+
+msgctxt "RPCLocalization|"
+msgid "Install updates automatically"
+msgstr "تثبيت التحديثات تلقائياً"
+
+msgctxt "RPCLocalization|"
+msgid "Suggest folders based on file type"
+msgstr "اقتراح مجلدات استناداً على نوع الملف"
+
+msgctxt "RPCLocalization|"
+msgid "Suggest folders based on download URL"
+msgstr "اقتراح مجلدات استناداً على رابط التنزيل"
+
+msgctxt "RPCLocalization|"
+msgid "Default folder:"
+msgstr "المجلد الافتراضي:"
+
+msgctxt "RPCLocalization|"
+msgid "Associate with torrents"
+msgstr "اقتران مع ملفات التورنت"
+
+msgctxt "RPCLocalization|"
+msgid "Notifications"
+msgstr "الإشعارات"
+
+msgctxt "RPCLocalization|"
+msgid "Notify me of completed downloads via Notification Center"
+msgstr "نبهني حول التحميلات المكتملة عبر مركز الإشعارات"
+
+msgctxt "RPCLocalization|"
+msgid "Only when FDM window is inactive"
+msgstr "فقط عندما تكون نافذة FDM غير نشطة"
+
+msgctxt "RPCLocalization|"
+msgid "Action of Remove button (main panel) or Delete key"
+msgstr "إجراء زر الإزالة (اللوحة الرئيسية) أو مفتاح Delete"
+
+msgctxt "RPCLocalization|"
+msgid "Remove only from list"
+msgstr "إزالة من القائمة فقط"
+
+msgctxt "RPCLocalization|"
+msgid "Delete file(s) from disk"
+msgstr "حذف الملف(ات) من القرص"
+
+msgctxt "RPCLocalization|"
+msgid "Always ask"
+msgstr "اسأل دائماً"
+
+msgctxt "RPCLocalization|"
+msgid "Don't catch downloads from"
+msgstr "لا تقم بالتقاط التنزيلات من"
+
+msgctxt "RPCLocalization|"
+msgid "Start downloading without confirmation"
+msgstr "بدء التنزيل دون تأكيد"
+
+msgctxt "RPCLocalization|"
+msgid "Use only HTTP ports to catch downloads in Edge"
+msgstr "استخدام منافذ HTTP فقط لالتقاط التنزيلات في Edge"
+
+msgctxt "RPCLocalization|"
+msgid "Safari: enable FDM"
+msgstr "Safari: تمكين FDM"
+
+msgctxt "RPCLocalization|"
+msgid "extension"
+msgstr "الامتداد"
+
+msgctxt "RPCLocalization|"
+msgid "for context menu"
+msgstr "لقائمة السياق"
+
+msgctxt "RPCLocalization|"
+msgid "Automatically catch downloads from browsers"
+msgstr "التقاط التنزيلات تلقائياً من المتصفحات"
+
+msgctxt "RPCLocalization|"
+msgid "Edge"
+msgstr "Edge"
+
+msgctxt "RPCLocalization|"
+msgid "Internet Explorer"
+msgstr "Internet Explorer"
+
+msgctxt "RPCLocalization|"
+msgid "Firefox"
+msgstr "Firefox"
+
+msgctxt "RPCLocalization|"
+msgid "Chrome"
+msgstr "Chrome"
+
+msgctxt "RPCLocalization|"
+msgid "Verify if"
+msgstr "تحقق إذا"
+
+msgctxt "RPCLocalization|"
+msgid "is enabled"
+msgstr "ممَكن"
+
+msgctxt "RPCLocalization|"
+msgid "No Chrome installation was found."
+msgstr "لم يتم العثور على تثبيت Chrome"
+
+msgctxt "RPCLocalization|"
+msgid "You can"
+msgstr "بإمكانك"
+
+msgctxt "RPCLocalization|"
+msgid "download Chrome here"
+msgstr "تحميل Chrome من هنا"
+
+msgctxt "RPCLocalization|"
+msgid "Use browser if you cancel download via FDM"
+msgstr "استخدام المتصفح إذا قمت بإلغاء التنزيل عبر FDM"
+
+msgctxt "RPCLocalization|"
+msgid "Don't catch downloads smaller than"
+msgstr "لا تقم بالتقاط التنزيلات أصغر من"
+
+msgctxt "RPCLocalization|"
+msgid "Kbytes"
+msgstr "ك.بايت"
+
+msgctxt "RPCLocalization|"
+msgid "Skip files with extensions:"
+msgstr "تخطي الملفات بالامتدادات:"
+
+msgctxt "RPCLocalization|"
+msgid "Add FDM to browser context menu"
+msgstr "إضافة FDM إلى قائمة سياق المتصفح"
+
+msgctxt "RPCLocalization|"
+msgid "Use proxy for P2P connections"
+msgstr "استخدام وكيل لاتصالات P2P"
+
+msgctxt "RPCLocalization|"
+msgid "Parameters"
+msgstr "المعلمات"
+
+msgctxt "RPCLocalization|"
+msgid "Low"
+msgstr "منخفضة"
+
+msgctxt "RPCLocalization|"
+msgid "Medium"
+msgstr "متوسطة"
+
+msgctxt "RPCLocalization|"
+msgid "High"
+msgstr "مرتفعة"
+
+msgctxt "RPCLocalization|"
+msgid "Normal"
+msgstr "عادية"
+
+msgctxt "RPCLocalization|"
+msgid "Skip"
+msgstr "تخطي"
+
+msgctxt "RPCLocalization|"
+msgid "Download speed"
+msgstr "سرعة التنزيل"
+
+msgctxt "RPCLocalization|"
+msgid "Upload speed"
+msgstr "سرعة الرفع"
+
+msgctxt "RPCLocalization|"
+msgid "Maximum number of simultaneous downloads"
+msgstr "الحد الأقصى لعدد التنزيلات المتزامنة"
+
+msgctxt "RPCLocalization|"
+msgid "Maximum number of connections"
+msgstr "الحد الأقصى لعدد الاتصالات"
+
+msgctxt "RPCLocalization|"
+msgid "History"
+msgstr "محفوظات"
+
+msgctxt "RPCLocalization|"
+msgid "Remember all destination folders"
+msgstr "تذكر جميع مجلدات الوجهة"
+
+msgctxt "RPCLocalization|"
+msgid "Clear history older than"
+msgid_plural "Clear history older than"
+msgstr[0] "مسح المحفوظات الأقدم من"
+msgstr[1] "مسح المحفوظات الأقدم من"
+msgstr[2] "مسح المحفوظات الأقدم من"
+msgstr[3] "مسح المحفوظات الأقدم من"
+msgstr[4] "مسح المحفوظات الأقدم من"
+msgstr[5] "مسح المحفوظات الأقدم من"
+
+msgctxt "RPCLocalization|"
+msgid "days"
+msgid_plural "days"
+msgstr[0] "يوم"
+msgstr[1] "يوم"
+msgstr[2] "يومان"
+msgstr[3] "أيام"
+msgstr[4] "يوما"
+msgstr[5] "يوم"
+
+msgctxt "RPCLocalization|"
+msgid "Maximum number of history records:"
+msgstr "الحد الأقصى لعدد سجلات المحفوظات:"
+
+msgctxt "RPCLocalization|"
+msgid "Disk usage"
+msgstr "استخدام القرص"
+
+msgctxt "RPCLocalization|"
+msgid "Preallocate disk space for files larger than"
+msgstr "إعادة تعيين مساحة القرص للملفات أكبر من"
+
+msgctxt "RPCLocalization|"
+msgid "Gbytes"
+msgstr "ج.بايت"
+
+msgctxt "RPCLocalization|"
+msgid "Power management"
+msgstr "إدارة الطاقة"
+
+msgctxt "RPCLocalization|"
+msgid "Prevent sleep if there are active downloads"
+msgstr "منع السكون إذا كان هناك تنزيلات نشطة"
+
+msgctxt "RPCLocalization|"
+msgid "Delete button action"
+msgstr "إجراء زر الحذف"
+
+msgctxt "RPCLocalization|"
+msgid "Delete files"
+msgstr "حذف الملفات"
+
+msgctxt "RPCLocalization|"
+msgid "DHT"
+msgstr "DHT"
+
+msgctxt "RPCLocalization|"
+msgid "Port forwarding"
+msgstr "إعادة توجيه المنفذ"
+
+msgctxt "RPCLocalization|"
+msgid "Local peer discovery"
+msgstr "اكتشاف النظير المحلي"
+
+msgctxt "RPCLocalization|"
+msgid "Peer exchange"
+msgstr "تبادل النظراء"
+
+msgctxt "RPCLocalization|"
+msgid "uTP"
+msgstr "uTP"
+
+msgctxt "RPCLocalization|"
+msgid "Use ports in range:"
+msgstr "استخدام المنافذ في المدى:"
+
+msgctxt "RPCLocalization|"
+msgid "to"
+msgstr "إلى"
+
+msgctxt "RPCLocalization|"
+msgid "Reset"
+msgstr "إعادة تعيين"
+
+msgctxt "RPCLocalization|"
+msgid "Select All"
+msgstr "تحديد الكل"
+
+msgctxt "RPCLocalization|"
+msgid "Name"
+msgstr "الاسم"
+
+msgctxt "RPCLocalization|"
+msgid "Status"
+msgstr "الحالة"
+
+msgctxt "RPCLocalization|"
+msgid "Speed"
+msgstr "السرعة"
+
+msgctxt "RPCLocalization|"
+msgid "Size"
+msgstr "الحجم"
+
+msgctxt "RPCLocalization|"
+msgid "Added"
+msgstr "تمت الإضافة"
+
+msgctxt "RPCLocalization|"
+msgid "Start all"
+msgstr "بدء الكل"
+
+msgctxt "RPCLocalization|"
+msgid "Pause all"
+msgstr "إيقاف للكل"
+
+msgctxt "RPCLocalization|"
+msgid "Start selected"
+msgstr "بدء المحدد"
+
+msgctxt "RPCLocalization|"
+msgid "Pause selected"
+msgstr "إيقاف المحدد"
+
+msgctxt "RPCLocalization|"
+msgid "Add new download..."
+msgstr "إضافة تنزيل جديد..."
+
+msgctxt "RPCLocalization|"
+msgid "Move to trash"
+msgstr "نقل إلى سلة المهملات"
+
+msgctxt "RPCLocalization|"
+msgid "Remove from list"
+msgstr "إزالة من القائمة"
+
+msgctxt "RPCLocalization|"
+msgid "Delete selected"
+msgstr "حذف المحدد"
+
+msgctxt "RPCLocalization|"
+msgid "Move to..."
+msgstr "نقل إلى..."
+
+msgctxt "RPCLocalization|"
+msgid "Search"
+msgstr "بحث"
+
+msgctxt "RPCLocalization|"
+msgid "Main menu"
+msgstr "القائمة الرئيسية"
+
+msgctxt "RPCLocalization|"
+msgid "Delete selected downloads"
+msgstr "حذف التنزيلات المحددة"
+
+msgctxt "RPCLocalization|"
+msgid "Remember my choice"
+msgstr "تذكر اختياري"
+
+msgctxt "RPCLocalization|"
+msgid "Delete file"
+msgstr "حذف الملف"
+
+msgctxt "RPCLocalization|"
+msgid "All"
+msgstr "الكل"
+
+msgctxt "RPCLocalization|"
+msgid "Active"
+msgstr "نشط"
+
+msgctxt "RPCLocalization|"
+msgid "Completed"
+msgstr "مكتمل"
+
+msgctxt "RPCLocalization|"
+msgid "Customize color"
+msgstr "تخصيص اللون"
+
+msgctxt "RPCLocalization|"
+msgid "Remove tag"
+msgstr "إزالة الوسم"
+
+msgctxt "RPCLocalization|"
+msgid "Would you like to make Free Download Manager the default torrent client?"
+msgstr "هل تريد جعل Free Download Manager عميل التورنت الافتراضي؟"
+
+msgctxt "RPCLocalization|"
+msgid "Don’t ask again"
+msgstr "عدم السؤال مجدداً"
+
+msgctxt "RPCLocalization|"
+msgid "Set as Default"
+msgstr "تعيين كافتراضي"
+
+msgctxt "RPCLocalization|"
+msgid "Computer will be put to sleep after all downloads are completed."
+msgstr "سيدخل الحاسوب في وضع السكون بعد الانتهاء من كافة التنزيلات."
+
+msgctxt "RPCLocalization|"
+msgid "Computer will shut down after all downloads are completed."
+msgstr "سيتم إيقاف تشغيل الحاسوب بعد الانتهاء من كافة التنزيلات."
+
+msgctxt "RPCLocalization|"
+msgid "Computer will hibernate after all downloads are completed."
+msgstr "سيدخل الحاسوب في وضع السبات بعد إكمال كافة التنزيلات."
+
+msgctxt "RPCLocalization|"
+msgid "Checking for updates..."
+msgstr "يتحقق من وجود تحديثات..."
+
+msgctxt "RPCLocalization|"
+msgid "Retry"
+msgstr "إعادة المحاولة"
+
+msgctxt "RPCLocalization|"
+msgid "Error:"
+msgstr "خطأ:"
+
+msgctxt "RPCLocalization|"
+msgid "Error downloading update:"
+msgstr "خطأ في تحميل التحديث:"
+
+msgctxt "RPCLocalization|"
+msgid "Downloading update"
+msgstr "ينزل التحديث"
+
+msgctxt "RPCLocalization|"
+msgid "Checking..."
+msgstr "يتحقق..."
+
+msgctxt "RPCLocalization|"
+msgid "Update downloaded"
+msgstr "تم تنزيل التحديث"
+
+msgctxt "RPCLocalization|"
+msgid "Install update"
+msgstr "تثبيت التحديث"
+
+msgctxt "RPCLocalization|"
+msgid "Installing updates"
+msgstr "جارِ تثبيت التحديثات"
+
+msgctxt "RPCLocalization|"
+msgid "Relaunch FDM to update"
+msgstr "أعد تشغيل FDM للتحديث"
+
+msgctxt "RPCLocalization|"
+msgid "Relaunch"
+msgstr "أعد التشغيل"
+
+msgctxt "RPCLocalization|"
+msgid "Error occurred during installation:"
+msgstr "حدث خطأ أثناء التثبيت:"
+
+msgctxt "RPCLocalization|"
+msgid "Restart computer to complete installation"
+msgstr "إعادة تشغيل الحاسوب لإكمال التثبيت"
+
+msgctxt "RPCLocalization|"
+msgid "FDM is up to date!"
+msgstr "FDM مُحدث!"
+
+msgctxt "RPCLocalization|"
+msgid "New version is available"
+msgstr "إصدار جديد متاح"
+
+#, qt-format
+msgctxt "RPCLocalization|"
+msgid "%ns"
+msgid_plural "%ns"
+msgstr[0] "%ns"
+msgstr[1] "%ns"
+msgstr[2] "%ns"
+msgstr[3] "%ns"
+msgstr[4] "%ns"
+msgstr[5] "%ns"
+
+#, qt-format
+msgctxt "RPCLocalization|"
+msgid "%nm"
+msgid_plural "%nm"
+msgstr[0] "%nm"
+msgstr[1] "%nm"
+msgstr[2] "%nm"
+msgstr[3] "%nm"
+msgstr[4] "%nm"
+msgstr[5] "%nm"
+
+#, qt-format
+msgctxt "RPCLocalization|"
+msgid "%nh"
+msgid_plural "%nh"
+msgstr[0] "%nh"
+msgstr[1] "%nh"
+msgstr[2] "%nh"
+msgstr[3] "%nh"
+msgstr[4] "%nh"
+msgstr[5] "%nh"
+
+#, qt-format
+msgctxt "RPCLocalization|"
+msgid "%nd"
+msgid_plural "%nd"
+msgstr[0] "%nd"
+msgstr[1] "%nd"
+msgstr[2] "%nd"
+msgstr[3] "%nd"
+msgstr[4] "%nd"
+msgstr[5] "%nd"
+
+#, qt-format
+msgctxt "RPCLocalization|"
+msgid "%nw"
+msgid_plural "%nw"
+msgstr[0] "%nw"
+msgstr[1] "%nw"
+msgstr[2] "%nw"
+msgstr[3] "%nw"
+msgstr[4] "%nw"
+msgstr[5] "%nw"
+
+#, qt-format
+msgctxt "RPCLocalization|"
+msgid "%ny"
+msgid_plural "%ny"
+msgstr[0] "%ny"
+msgstr[1] "%ny"
+msgstr[2] "%ny"
+msgstr[3] "%ny"
+msgstr[4] "%ny"
+msgstr[5] "%ny"
+
+msgctxt "RPCLocalization|"
+msgid "YouTube"
+msgstr "يوتيوب"
+
+msgctxt "RPCLocalization|"
+msgid "Torrent"
+msgstr "تورنت"
+
+msgctxt "RPCLocalization|"
+msgid "Options"
+msgstr "خيارات"
+
+msgctxt "RPCLocalization|"
+msgid "Open Scheduler"
+msgstr "فتح الجدولة"
+
+msgctxt "RPCLocalization|"
+msgid "Sсheduler"
+msgstr "الجدولة"
+
+msgctxt "RPCLocalization|"
+msgid "Start and pause downloads at specified time"
+msgstr "بدء وإيقاف التنزيلات في الوقت المحدد"
+
+msgctxt "RPCLocalization|"
+msgid "Enable Scheduler"
+msgstr "تمكين الجدولة"
+
+msgctxt "RPCLocalization|"
+msgid "Sun"
+msgstr "أحد"
+
+msgctxt "RPCLocalization|"
+msgid "Mon"
+msgstr "إثنبن"
+
+msgctxt "RPCLocalization|"
+msgid "Tue"
+msgstr "ثلاثاء"
+
+msgctxt "RPCLocalization|"
+msgid "Wed"
+msgstr "أربعاء"
+
+msgctxt "RPCLocalization|"
+msgid "Thu"
+msgstr "خميس"
+
+msgctxt "RPCLocalization|"
+msgid "Fri"
+msgstr "جمعة"
+
+msgctxt "RPCLocalization|"
+msgid "Sat"
+msgstr "سبت"
+
+msgctxt "RPCLocalization|"
+msgid "From:"
+msgstr "من:"
+
+msgctxt "RPCLocalization|"
+msgid "To:"
+msgstr "إلى:"
+
+msgctxt "RPCLocalization|"
+msgid "Change settings"
+msgstr "تغيير الإعدادات"
+
+msgctxt "RPCLocalization|"
+msgid "Change preferences"
+msgstr "تغيير التفضيلات"
+
+msgctxt "RPCLocalization|"
+msgid "Tip"
+msgstr "تلميح"
+
+msgctxt "RPCLocalization|"
+msgid "Computer won't be put to sleep because there are scheduled downloads"
+msgstr "لن يدخل الحاسوب في وضع السكون لأن هناك تنزيلات مجدولة."
+
+msgctxt "RPCLocalization|"
+msgid "Scheduler"
+msgstr "الجدولة"
+
+msgctxt "RPCLocalization|"
+msgid "Don't put your computer to sleep if there're scheduled downloads"
+msgstr "لا تدخل الحاسوب في وضع السكون إذا كان هناك تنزيلات مجدولة."
+
+msgctxt "RPCLocalization|"
+msgid "Press"
+msgstr "اضغط"
+
+msgctxt "RPCLocalization|"
+msgid "to let the browser process the download"
+msgstr "للسماح للمتصفح بمعالجة التنزل"
+
+msgctxt "RPCLocalization|"
+msgid "Check file integrity"
+msgstr "فحص سلامة الملف"
+
+msgctxt "RPCLocalization|"
+msgid "Calculate"
+msgstr "حساب"
+
+msgctxt "RPCLocalization|"
+msgid "Calculating"
+msgstr "يحسب"
+
+msgctxt "RPCLocalization|"
+msgid "Verification OK"
+msgstr "تم التحقق"
+
+msgctxt "RPCLocalization|"
+msgid "Verification failed"
+msgstr "فشل التحقق"
+
+msgctxt "RPCLocalization|"
+msgid "Compare with"
+msgstr "مقارنة مع"
+
+msgctxt "RPCLocalization|"
+msgid "Found incomplete download with same name and size."
+msgstr "وجد تنزيل غير مكتمل له نفس الاسم و الحجم."
+
+msgctxt "RPCLocalization|"
+msgid "Would you like to start new or resume downloading?"
+msgstr "هل تريد أن تبدأ تنزيل جديد أو تستأنف التنزيل؟"
+
+msgctxt "RPCLocalization|"
+msgid "Selected filepath is not valid."
+msgstr "مسار الملف المحدد غير صالح."
+
+msgctxt "RPCLocalization|"
+msgid "Close"
+msgstr "إغلاق "
+
+#, qt-format
+msgctxt "RPCLocalization|"
+msgid "%1 left"
+msgstr "%1 متبقي"
+
+msgctxt "RPCLocalization|"
+msgid "Browsers:"
+msgstr "المتصفحات:"
+
+msgctxt "RPCLocalization|"
+msgid "Done"
+msgstr "تم"
+
+#, qt-format
+msgctxt "RPCLocalization|"
+msgid "%1 of %2"
+msgstr "%1 من %2"
+
+msgctxt "RPCLocalization|"
+msgid "Restore"
+msgstr "استعادة"
+
+msgctxt "RPCLocalization|"
+msgid "Using Alt key"
+msgstr "استخدام مفتاح Alt"
+
+msgctxt "RPCLocalization|"
+msgid "Don't catch downloads when Alt is pressed"
+msgstr "لا تلتقط التنزيلات عند الضغط على Alt"
+
+msgctxt "RPCLocalization|"
+msgid "Catch downloads only when Alt is pressed"
+msgstr "التقط التنزيلات فقط عند الضغط على Alt"
+
+msgctxt "RPCLocalization|"
+msgid "Skip domains:"
+msgstr "تخطي النطاقات:"
+
+msgctxt "RPCLocalization|"
+msgid "Don't put your computer to sleep if there is a scheduled download"
+msgstr "لا تدخل الحاسوب في وضع السكون إذا كان هناك تنزيل مجدول"
+
+msgctxt "RPCLocalization|"
+msgid "Don't put your computer to sleep if there is an active download"
+msgstr "لا تدخل الحاسوب في وضع السكون إذا كان هناك تنزيل نشط"
+
+msgctxt "RPCLocalization|"
+msgid "Remove only from download list"
+msgstr "إزالة من قائمة التنزيل فقط"
+
+msgctxt "RPCLocalization|"
+msgid "Go back to default settings"
+msgstr "العودة إلى الإعدادات الافتراضية"
+
+msgctxt "RPCLocalization|"
+msgid "Hold"
+msgstr "اضغط باستمرار"
+
+msgctxt "RPCLocalization|"
+msgid "Alt key"
+msgstr "مفتاح Alt"
+
+msgctxt "RPCLocalization|"
+msgid "Holding Alt, click link to download via browser."
+msgstr "اضغط باستمرار على Alt، انقر فوق الرابط للتنزيل عن طريق المتصفح."
+
+msgctxt "RPCLocalization|"
+msgid "Disk space needed:"
+msgstr "مساحة القرص المطلوبة:"
+
+msgctxt "RPCLocalization|"
+msgid "Hide bottom panel"
+msgstr "إخفاء اللوحة السفلية"
+
+msgctxt "RPCLocalization|"
+msgid "Show bottom panel"
+msgstr "إظهار اللوحة السفلية"
+
+#, qt-format
+msgctxt "RPCLocalization|"
+msgid "disk %1"
+msgstr "القرص %1"
+
+msgctxt "RPCLocalization|"
+msgid "Tag with the same name already exists"
+msgstr "وسم بنفس الاسم موجود مسبقاً"
+
+msgctxt "RPCLocalization|"
+msgid "Enable sleep mode while seeding torrents"
+msgstr "تمكين وضع السكون أثناء تلقيم ملفات التورنت"
+
+msgctxt "RPCLocalization|"
+msgid "on"
+msgstr "في"
+
+msgctxt "RPCLocalization|"
+msgid "and"
+msgstr "و"
+
+msgctxt "RPCLocalization|"
+msgid "Automatically remove deleted files from download list"
+msgstr "إزالة الملفات المحذوفة من قائمة التنزيلا تلقائياً"
+
+msgctxt "RPCLocalization|"
+msgid "Some files corrupted"
+msgstr "بعض الملفات معطوبة"
+
+msgctxt "RPCLocalization|"
+msgid "Save"
+msgstr "حفظ"
+
+msgctxt "RPCLocalization|"
+msgid "Share with friends"
+msgstr "شارك مع أصدقائك"
+
+msgctxt "RPCLocalization|"
+msgid "Paste urls from clipboard"
+msgstr "لصق روابط من الحافظة"
+
+msgctxt "RPCLocalization|"
+msgid "Change download URL"
+msgstr "تغيير رابط التنزيل"
+
+msgctxt "RPCLocalization|"
+msgid "Saved as:"
+msgstr "محفوظ كـ:"
+
+msgctxt "RPCLocalization|"
+msgid "Invalid URL"
+msgstr "رابط غير صحيح"
+
+msgctxt "RPCLocalization|"
+msgid "Start download"
+msgstr "بدء التنزيل"
+
+msgctxt "RPCLocalization|"
+msgid "Seeding"
+msgstr "يلقم"
+
+msgctxt "RPCLocalization|"
+msgid "Use server time for file creation"
+msgstr "استخدم وقت الخادم لإنشاء الملف"
+
+msgctxt "RPCLocalization|"
+msgid "Set days of the week to enable Scheduler"
+msgstr "تعيين أيام من الأسبوع لتمكين الجدولة"
+
+msgctxt "RPCLocalization|"
+msgid "Enter URL or choose torrent file"
+msgstr "ادخل رابط أو اختر ملف تورنت"
+
+msgctxt "RPCLocalization|"
+msgid "New file"
+msgstr "ملف جديد"
+
+msgctxt "RPCLocalization|"
+msgid "New files"
+msgstr "ملفات جديدة"
+
+msgctxt "RPCLocalization|"
+msgid "New video"
+msgstr "فيديو جديد"
+
+msgctxt "RPCLocalization|"
+msgid "New torrent"
+msgstr "تورنت جديد"
+
+msgctxt "RPCLocalization|"
+msgid "Save to"
+msgstr "حفظ إلى"
+
+msgctxt "RPCLocalization|"
+msgid "File name"
+msgstr "اسم الملف"
+
+msgctxt "RPCLocalization|"
+msgid "Create subfolder"
+msgstr "إنشاء مجلد فرعي"
+
+msgctxt "RPCLocalization|"
+msgid "Torrent contents"
+msgstr "محتويات التورنت"
+
+msgctxt "RPCLocalization|"
+msgid "Authentication required:"
+msgstr "المصادقة المطلوبة:"
+
+msgctxt "RPCLocalization|"
+msgid "Enter new URL"
+msgstr "ادخل رابط جديد"
+
+msgctxt "RPCLocalization|"
+msgid "File location"
+msgstr "موقع الملف"
+
+msgctxt "RPCLocalization|"
+msgid "Download links"
+msgstr "روابط التنزيل"
+
+msgctxt "RPCLocalization|"
+msgid "Restore default settings?"
+msgstr "استعادة الإعدادات الافتراضية"
+
+msgctxt "RPCLocalization|"
+msgid "Default settings"
+msgstr "الإعدادات الافتراضية"
+
+msgctxt "RPCLocalization|"
+msgid "Start new"
+msgstr "بدأ جديد"
+
+msgctxt "RPCLocalization|"
+msgid "Resume"
+msgstr "استئناف"
+
+msgctxt "RPCLocalization|"
+msgid "Hash"
+msgstr "تجزئة"
+
+msgctxt "RPCLocalization|settings"
+msgid "Traffic Limits"
+msgstr "حدود نقل البيانات"
+
+msgctxt "RPCLocalization|settings"
+msgid "Login"
+msgstr "الدخول"
+
+msgctxt "RPCLocalization|settings"
+msgid "Update"
+msgstr "تحديث"
+
+msgctxt "RPCLocalization|Advanced"
+msgid "Options"
+msgstr "خيارات"
+
+msgctxt "RPCLocalization|tags panel"
+msgid "Completed"
+msgstr "مكتمل"
+
+msgctxt "RPCSystem|"
+msgid "Default download folder"
+msgstr "مجلد التنزيل الإفتراضي"
+
+msgctxt "RPCSystem|"
+msgid "Accept"
+msgstr "قبول"
+
+msgctxt "RPCSystem|"
+msgid "Download to"
+msgstr "تنزيل إلى"
+
+msgctxt "RPCSystem|"
+msgid "OK"
+msgstr "موافق"
+
+msgctxt "RPCSystem|"
+msgid "Open torrent file"
+msgstr "فتح ملف التورنت"
+
+msgctxt "RPCSystem|"
+msgid "Torrent files"
+msgstr "ملفات التورنت"
+
+msgctxt "TorrentDownload|"
+msgid "File priorities changed"
+msgstr "تغيرت أولويات الملف"
+
+msgctxt "TorrentDownload|"
+msgid "Stopping seeding"
+msgstr "يوقف التلقيم"
+
+msgctxt "TorrentDownload|"
+msgid "Sequential downloading enabled"
+msgstr "التنزيل المتسلسل ممَكن"
+
+msgctxt "TorrentDownload|"
+msgid "Sequential downloading disabled"
+msgstr "التنزيل المتسلسل معطل"
+
+msgctxt "TorrentDownload|"
+msgid "Trackers merged"
+msgstr "المتتبعات دمجت"
+
+msgctxt "TorrentDownload|"
+msgid "Starting seeding"
+msgstr "يبدء التلقيم"
+
+msgctxt "TorrentDownload|"
+msgid "Unknown error occurred"
+msgstr "حدث خطأ غير معروف"
+
+#, qt-format
+msgctxt "TorrentDownload|"
+msgid "Error occurred: %1"
+msgstr "حدث خطأ: %1"
+
+#, qt-format
+msgctxt "TorrentDownload|"
+msgid "Maximum number of connections is %1"
+msgstr "الحد الأقصى لعدد الاتصالات هو %1"
+
+msgctxt "TorrentDownload|"
+msgid "unlimited"
+msgstr "غير محدود"
+
+msgctxt "TorrentDownload|"
+msgid "Download speed is unlimited"
+msgstr "سرعة التنزيل غير محدودة"
+
+#, qt-format
+msgctxt "TorrentDownload|"
+msgid "Download speed is limited to %1/s"
+msgstr "سرعة التنزيل محددة بـ %1/s"
+
+msgctxt "TorrentDownload|"
+msgid "Upload speed is unlimited"
+msgstr "سرعة الرفع غير محدودة"
+
+#, qt-format
+msgctxt "TorrentDownload|"
+msgid "Upload speed is limited to %1/s"
+msgstr "سرعة الرفع محددة بـ %1/s"
+
+msgctxt "TorrentDownload|"
+msgid "Starting download"
+msgstr "يبدء التنزيل"
+
+msgctxt "TorrentDownload|"
+msgid "Checking files"
+msgstr "يفحص الملفات"
+
+msgctxt "TorrentDownload|"
+msgid "Downloading"
+msgstr "ينزيل"
+
+msgctxt "TorrentDownload|"
+msgid "Download complete"
+msgstr "اكتمل التنزيل"
+
+msgctxt "TorrentDownload|"
+msgid "Can't move files recursively"
+msgstr "لا يمكن نقل الملفات بشكل تكراري"
+
+msgctxt "TorrentDownload|"
+msgid "Changing destination folder"
+msgstr "تغيير مجلد الوجهة"
+
+#, qt-format
+msgctxt "TorrentDownload|"
+msgid "Moving files to %1"
+msgstr "نقل الملفات إلى %1"
+
+#, qt-format
+msgctxt "TorrentDownload|"
+msgid "Moving file to %1"
+msgstr "نقل الملف إلى %1"
+
+msgctxt "TorrentDownload|"
+msgid "Waiting for metadata"
+msgstr "بانتظار البيانات الوصفية"
+
+msgctxt "TorrentDownload|"
+msgid "Updating"
+msgstr "تحديث"
+
+msgctxt "TorrentDownload|"
+msgid "Working"
+msgstr "يعمل"
+
+msgctxt "TorrentDownload|"
+msgid "Metadata received"
+msgstr "تم استلام البيانات الوصفية"
+
+msgctxt "TorrentDownload|"
+msgid "User authorization required"
+msgstr "مصادقة المستخدم مطلوبة"
+
+msgctxt "TorrentDownload|"
+msgid "Files mapped to new directory"
+msgstr "تم تعيين الملفات إلى مسار جديد"
+
+msgctxt "TorrentDownload|"
+msgid "Files moving failed"
+msgstr "فشل نقل الملفات"
+
+msgctxt "TorrentDownload|"
+msgid "File moving failed"
+msgstr "فشل نقل الملف"
+
+#, qt-format
+msgctxt "TorrentDownload|"
+msgid "Files moving declined: %1"
+msgstr "تم رفض نقل الملفات: %1"
+
+#, qt-format
+msgctxt "TorrentDownload|"
+msgid "Moving file declined: %1"
+msgstr "تم رفض نقل الملف: %1"
+
+msgctxt "TorrentDownload|"
+msgid "Moved successfully"
+msgstr "تم النقل بنجاح"
+
+#, qt-format
+msgctxt "TorrentDownload|"
+msgid ", average speed: %1"
+msgstr "، متوسط السرعة: %1"
+
+#, qt-format
+msgctxt "TorrentDownload|"
+msgid "Files moving failed: %1"
+msgstr "فشل نقل الملفات: %1"
+
+#, qt-format
+msgctxt "TorrentDownload|"
+msgid "File moving failed: %1"
+msgstr "فشل نقل الملف: %1"
+
+msgctxt "TorrentDownload|"
+msgid "Files moving cancelled"
+msgstr "تم إلغاء نقل الملفات"
+
+msgctxt "TorrentDownload|"
+msgid "Moving file cancelled"
+msgstr "تم إلغاء نقل الملف"
+
+msgctxt "TorrentDownload|"
+msgid "Unexpected error"
+msgstr "خطأ غير متوقع"
+
+msgctxt "TrayMenu|"
+msgid "Show main window"
+msgstr "إظهار النافذة الرئيسية"
+
+msgctxt "TrayMenu|"
+msgid "Open at Login"
+msgstr "فتح عند تسجيل الدخول"
+
+msgctxt "TrayMenu|"
+msgid "Launch at startup"
+msgstr "البدء عند بدء التشغيل"
+
+msgctxt "TrayMenu|"
+msgid "About FDM"
+msgstr "حول FDM"
+
+msgctxt "TrayMenu|"
+msgid "Quit FDM"
+msgstr "خروج من FDM"
+
+msgctxt "TrayMenu|"
+msgid "Quit"
+msgstr "خروج"
+
+#, qt-format
+msgctxt "UIHelper|"
+msgid "About %1"
+msgstr "حول %1"
+
+#, qt-format
+msgctxt "UIHelper|"
+msgid "Version %1 (%2)"
+msgstr "الإصدار %1 (%2)"
+
+msgctxt "UIHelper|"
+msgid "Open"
+msgstr "فتح"
+
+msgctxt "UIHelper|"
+msgid "Reveal in Finder"
+msgstr "إظهار في الباحث"
+
+msgctxt "UIHelper|"
+msgid "Show in folder"
+msgstr "إظهار في المجلد"
+
+msgctxt "UIHelper|"
+msgid "Show info"
+msgstr "إظهار المعلومات"
+
+msgctxt "UIHelper|"
+msgid "Choose files..."
+msgstr "اختر الملفات..."
+
+msgctxt "UIHelper|"
+msgid "Pause all except selected"
+msgstr "إيقاف الكل ما عدا المحدد"
+
+msgctxt "UIHelper|"
+msgid "Pause all except this one"
+msgstr "إيقاف الكل ما عدا هذا"
+
+msgctxt "UIHelper|"
+msgid "Restart selected"
+msgstr "إعادة بدء المحدد"
+
+msgctxt "UIHelper|"
+msgid "Restart"
+msgstr "إعادة البدء"
+
+msgctxt "UIHelper|"
+msgid "Set priority"
+msgstr "تعيين الأولوية"
+
+msgctxt "UIHelper|"
+msgid "Move to..."
+msgstr "نقل إلى..."
+
+msgctxt "UIHelper|"
+msgid "Download to..."
+msgstr "تنزيل إلى..."
+
+msgctxt "UIHelper|"
+msgid "Move to trash"
+msgstr "نقل إلى سلة المهملات"
+
+msgctxt "UIHelper|"
+msgid "Delete files"
+msgstr "حذف الملفات"
+
+msgctxt "UIHelper|"
+msgid "Delete file"
+msgstr "حذف الملف"
+
+msgctxt "UIHelper|"
+msgid "Remove from list"
+msgstr "إزالة من القائمة"
+
+msgctxt "UIHelper|"
+msgid "Enable seeding"
+msgstr "تمكين التلقيم"
+
+msgctxt "UIHelper|"
+msgid "Sequential download"
+msgstr "تنزيل متسلسل"
+
+msgctxt "UIHelper|"
+msgid "Force recheck"
+msgstr "إعادة فحص إجباري"
+
+msgctxt "UIHelper|"
+msgid "Force reannounce"
+msgstr "إعادة إعلان مرة أخرى"
+
+msgctxt "UIHelper|"
+msgid "Copy link"
+msgstr "نسخ الرابط"
+
+msgctxt "UIHelper|"
+msgid "Add tag"
+msgstr "إضافة وسم"
+
+msgctxt "UIHelper|"
+msgid "File integrity"
+msgstr "سلامة الملف"
+
+msgctxt "UIHelper|"
+msgid "Schedule"
+msgstr "الجدولة"
+
+msgctxt "UIHelper|"
+msgid "Change URL"
+msgstr "تغيير الرابط"
+
+msgctxt "UIHelper|"
+msgid "High priority"
+msgstr "أولوية عالية"
+
+msgctxt "UIHelper|"
+msgid "Normal priority"
+msgstr "أولوية عادية"
+
+msgctxt "UIHelper|"
+msgid "Low priority"
+msgstr "أولوية منخفضة"
+
+msgctxt "UIHelper|"
+msgid "Edit"
+msgstr "تعديل"
+
+msgctxt "UIHelper|"
+msgid "Remove"
+msgstr "إزالة"
+
+msgctxt "UIHelper|"
+msgid "Untag"
+msgstr "إزالة الوسم"
+
+msgctxt "UIHelper|"
+msgid "Copy log to clipboard"
+msgstr "نسخ السجل إلى الحافظة"
+
+msgctxt "UIHelper|"
+msgid "Save log to file"
+msgstr "حفظ السجل في الملف"
+
+#, qt-format
+msgctxt "UIHelper|"
+msgid "FDM Log [%1].txt"
+msgstr "سجل FDM [%1].txt"
+
+msgctxt "UIHelper|"
+msgid "Save Log"
+msgstr "حفظ السجل"
+
+msgctxt "UIHelper|"
+msgid "Text files"
+msgstr "ملفات نصية"
+
+#, qt-format
+msgctxt "UIHelper|"
+msgid "%1 K"
+msgstr "%1 ك."
+
+#, qt-format
+msgctxt "UIHelper|"
+msgid "%1 M"
+msgstr "%1 م."
+
+msgctxt "YoutubeDownload|"
+msgid "File is missing"
+msgstr "الملف مفقود"
+
+msgctxt "YoutubeDownload|"
+msgid "Error: files are missing."
+msgstr "خطأ: الملفات مفقودة."
+
+msgctxt "YoutubeDownload|"
+msgid "Files moved successfully"
+msgstr "تم نقل الملفات بنجاح"
+
+#, qt-format
+msgctxt "YoutubeDownload|"
+msgid "Moving to %1"
+msgstr "ينقل إلى %1"
+
+msgctxt "YoutubeDownload|"
+msgid "Merging failed"
+msgstr "فشل الدمج"
+
+msgctxt "YoutubeDownload|"
+msgid "Merging media streams"
+msgstr "دمج دفق الوسائط"
+
+msgctxt "YoutubeDownload|"
+msgid "Redirecting"
+msgstr "إعادة التوجيه"
+
+msgctxt "YoutubeDownload|"
+msgid "Handling redirect"
+msgstr "التعامل مع إعادة التوجيه"
+
+#, qt-format
+msgctxt "YoutubeDownload|"
+msgid "AudioStream: %1"
+msgstr "بث صوتي: %1"
+
+#, qt-format
+msgctxt "YoutubeDownload|"
+msgid "VideoStream: %1"
+msgstr "بث فيديو: %1"
+
+msgctxt "YoutubeDownload|"
+msgid "Downloading page"
+msgstr "ينزل الصفحة"
+
+msgctxt "YoutubeDownload|"
+msgid "Page is downloaded"
+msgstr "تم تنزيل الصفحة"
+
+msgctxt "YoutubeDownload|"
+msgid "Launching parser"
+msgstr "تشغيل المحلل"
+
+msgctxt "YoutubeDownload|"
+msgid "Page is parsed"
+msgstr "تم تحليل الصفحة"
+
+msgctxt "YoutubeDownload|"
+msgid "Can't find video for this quality"
+msgstr "لا يمكن العثور على فيديو بهذه الجودة"
+
+#, qt-format
+msgctxt "YoutubeDownload|"
+msgid "Parsing failure: %1"
+msgstr "فشل التحليل: %1"
+
+msgctxt "YoutubeDownload|"
+msgid "Download complete"
+msgstr "اكتمل التنزيل"
+
+#, qt-format
+msgctxt "YoutubeDownload|"
+msgid "Moving declined: %1"
+msgstr "تم رفض النقل: %1"
+
+msgctxt "YoutubeDownload|"
+msgid "Moved successfully"
+msgstr "تم النقل بنجاح"
+
+#, qt-format
+msgctxt "YoutubeDownload|"
+msgid ", average speed: %1"
+msgstr "، متوسط السرعة: %1"
+
+#, qt-format
+msgctxt "YoutubeDownload|"
+msgid "File is renamed to %1"
+msgstr "تم إعادة تسمية الملف إلى %1"
+
+#, qt-format
+msgctxt "YoutubeDownload|"
+msgid "Moving failed: %1"
+msgstr "فشل النقل: %1"
+
+msgctxt "YoutubeDownload|"
+msgid "Moving cancelled."
+msgstr "تم إلغاء النقل"
+
+#~ msgctxt "HttpError|"
+#~ msgid "Error %1"
+#~ msgstr "خطأ %1"
+
+#~ msgctxt "TorrentDownload|"
+#~ msgid "Files are missing"
+#~ msgstr "الملفات مفقودة"
+
+#~ msgctxt "TorrentDownload|"
+#~ msgid "File is missing"
+#~ msgstr "الملف مفقود"
+
+#~ msgctxt "UIHelper|"
+#~ msgid "Skip"
+#~ msgstr "تخطي"
