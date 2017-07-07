@@ -3,7 +3,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : (n%100>=3 && n%100<=10) ? 3 : n%100>=11 ? 4 : 5);\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
 "X-Language: ar_EG\n"
 "X-Source-Language: en\n"
 "X-Qt-Contexts: true\n"
@@ -11,18 +11,18 @@ msgstr ""
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
-"Language-Team: Mhmed_tahan@hotmail.com\n"
+"Language-Team: FB.com/MhmedTahan\n"
 "Language: ar\n"
 "X-Generator: Poedit 2.0.2\n"
 
 msgid "Download with FDM"
-msgstr "تحميل بـ FDM"
+msgstr "تنزيل بـ FDM"
 
 msgid "Download selected with FDM"
-msgstr "تحميل المحدد بـ FDM"
+msgstr "تنزيل المحدد بـ FDM"
 
 msgid "Download video with FDM"
-msgstr "تحميل الفيديو بـ FDM"
+msgstr "تنزيل الفيديو بـ FDM"
 
 msgid "Error: 0x%x. Failed to transfer downloads to FDM."
 msgstr "خطأ:  0x%x. فشل نقل النزيلات إلى FDM."
@@ -382,15 +382,15 @@ msgstr "لا يمكن استئناف تنزيل الملف"
 
 msgctxt "HttpFileDownload|"
 msgid "Reconnecting"
-msgstr "يعيد الاتصال"
+msgstr "إعادة الاتصال"
 
 msgctxt "HttpFileDownload|"
 msgid "Starting download"
-msgstr "يبدء التنزيل"
+msgstr "بدء التنزيل"
 
 msgctxt "HttpFileDownload|"
 msgid "Pausing download"
-msgstr "يوقف التنزيل"
+msgstr "إيقاف التنزيل"
 
 msgctxt "HttpFileDownload|"
 msgid "Failed to resume as URL changed"
@@ -399,7 +399,7 @@ msgstr "فشل الاستئناف بسبب تغير الرابط"
 #, qt-format
 msgctxt "HttpFileDownload|"
 msgid "Moving file to %1"
-msgstr "ينقل الملف إلى %1"
+msgstr "نقل الملف إلى %1"
 
 #, qt-format
 msgctxt "HttpFileDownload|"
@@ -408,7 +408,7 @@ msgstr "الملف \"%1\" موجود. حفظ كـ %2"
 
 msgctxt "HttpFileDownload|"
 msgid "Restarting download"
-msgstr "يعيد بدء التنزيل"
+msgstr "إعادة بدء التنزيل"
 
 msgctxt "HttpFileDownload|"
 msgid "Failed to clear contents of original file."
@@ -422,12 +422,12 @@ msgstr "تم إعادة تسمية الملف إلى %1"
 #, qt-format
 msgctxt "HttpFileDownload|"
 msgid "Reusing connection #%1"
-msgstr "يعيد استخدام الاتصال #%1"
+msgstr "إعادة استخدام الاتصال #%1"
 
 #, qt-format
 msgctxt "HttpFileDownload|"
 msgid "Opening connection #%1"
-msgstr "يفتح الاتصال #%1"
+msgstr "فتح الاتصال #%1"
 
 #, qt-format
 msgctxt "HttpFileDownload|"
@@ -440,7 +440,7 @@ msgstr "فشل إكمال التنزيل"
 
 msgctxt "HttpFileDownload|"
 msgid "Opening file on disk..."
-msgstr "يفتح الملف على القرص..."
+msgstr "فتح الملف على القرص..."
 
 msgctxt "HttpFileDownload|"
 msgid "File is missing"
@@ -452,7 +452,7 @@ msgstr "اكتمل التنزيل"
 
 msgctxt "HttpFileDownload|"
 msgid "Removing temporary file extension"
-msgstr "يزيل امتداد الملف المؤقت"
+msgstr "إزالة امتداد الملف المؤقت"
 
 msgctxt "HttpFileDownload|"
 msgid "Preallocating disk space for download"
@@ -478,7 +478,7 @@ msgstr "فشل كتابة البيانات الواردة إلى الملف"
 #, qt-format
 msgctxt "HttpFileDownload|"
 msgid "#%1 receiving data"
-msgstr "#%1 يتلقى البيانات"
+msgstr "#%1 تلقي البيانات"
 
 #, qt-format
 msgctxt "HttpFileDownload|"
@@ -635,11 +635,11 @@ msgstr "تكبير"
 
 msgctxt "QObject|"
 msgid "Enter Full Screen"
-msgstr "دخول ملء الشاشة"
+msgstr "ادخل الشاشة الكاملة"
 
 msgctxt "QObject|"
 msgid "Bring All to Front"
-msgstr "يحضر الكل إلى الواجهة"
+msgstr "احضر الكل إلى الواجهة"
 
 msgctxt "QObject|"
 msgid "Contact Support"
@@ -647,7 +647,7 @@ msgstr "اتصل بالدعم"
 
 msgctxt "QObject|"
 msgid "Open Torrent File..."
-msgstr "فتح ملف تورنت..."
+msgstr "فتح ملف التورنت..."
 
 msgctxt "QObject|"
 msgid "File"
@@ -703,7 +703,7 @@ msgstr "لا يمكن المسار إلى الدليل المحدد."
 
 msgctxt "QObject|"
 msgid "Confirm"
-msgstr "تأكيد"
+msgstr "أكد"
 
 msgctxt "QObject|"
 msgid "Attention! "
@@ -783,7 +783,7 @@ msgstr "غير محدد"
 
 msgctxt "RPCLocalization|"
 msgid "Snail mode frees bandwidth without stopping downloads."
-msgstr "وضع القوقع يخلي عرض النطاق الترددي بدون إيقاف التنزيلات."
+msgstr "وضع القوقع يُخلي عرض النطاق الترددي بدون إيقاف التنزيلات."
 
 msgctxt "RPCLocalization|"
 msgid "Hide details"
@@ -918,7 +918,7 @@ msgstr "ملفات"
 
 msgctxt "RPCLocalization|"
 msgid "Trackers"
-msgstr "وحدات التتبع"
+msgstr "متعقبات"
 
 msgctxt "RPCLocalization|"
 msgid "Peers"
@@ -930,7 +930,7 @@ msgstr "السجل"
 
 msgctxt "RPCLocalization|"
 msgid "Enable seeding"
-msgstr "تمكين التلقيم"
+msgstr "مكن التلقيم"
 
 msgctxt "RPCLocalization|"
 msgid "Progress"
@@ -1014,7 +1014,7 @@ msgstr "تحديد المجلد"
 
 msgctxt "RPCLocalization|"
 msgid "Requesting download info..."
-msgstr "يطلب معلومات التنزيل..."
+msgstr "طلب معلومات التنزيل..."
 
 msgctxt "RPCLocalization|"
 msgid "Quality:"
@@ -1066,7 +1066,7 @@ msgstr "لم يعثر على شيء"
 
 msgctxt "RPCLocalization|"
 msgid "Moving"
-msgstr "ينقل"
+msgstr "نقل"
 
 msgctxt "RPCLocalization|"
 msgid "Unknown file size"
@@ -1074,15 +1074,15 @@ msgstr "حجم الملف غير معروف"
 
 msgctxt "RPCLocalization|"
 msgid "Merging media streams"
-msgstr "يدمج دفق الوسائط"
+msgstr "دمج دفق الوسائط"
 
 msgctxt "RPCLocalization|"
 msgid "Allocating disk space..."
-msgstr "يخصص مساحة على القرص..."
+msgstr "تخصيص مساحة على القرص..."
 
 msgctxt "RPCLocalization|"
 msgid "Reconnecting..."
-msgstr "يعيد الاتصال..."
+msgstr "إعادة الاتصال..."
 
 msgctxt "RPCLocalization|"
 msgid "Reconnecting"
@@ -1090,11 +1090,11 @@ msgstr "إعادة الاتصال"
 
 msgctxt "RPCLocalization|"
 msgid "Paused"
-msgstr "متوقف مؤقتا"
+msgstr "متوقف مؤقتاً"
 
 msgctxt "RPCLocalization|"
 msgid "Downloading metadata"
-msgstr "ينزل البيانات الوصفية"
+msgstr "تنزيل البيانات الوصفية"
 
 msgctxt "RPCLocalization|"
 msgid "Downloading"
@@ -1106,7 +1106,7 @@ msgstr "خطأ"
 
 msgctxt "RPCLocalization|"
 msgid "Checking files..."
-msgstr "التحقق من الملفات..."
+msgstr "تحقق من الملفات..."
 
 msgctxt "RPCLocalization|"
 msgid "Downloading, allocating disk space..."
@@ -1116,7 +1116,7 @@ msgstr "تنزيل، تخصيص مساحة القرص..."
 msgctxt "RPCLocalization|"
 msgid "Completed %n / %2 files"
 msgid_plural "Completed %n / %2 files"
-msgstr[0] "اكتمل %n / %2 ملفات"
+msgstr[0] "تم اكمال %n / %2 ملفات"
 msgstr[1] "اكتمل %n / %2 ملفات"
 msgstr[2] "اكتمل %n / %2 ملفات"
 msgstr[3] "اكتمل %n / %2 ملفات"
@@ -1403,7 +1403,7 @@ msgstr "الإشعارات"
 
 msgctxt "RPCLocalization|"
 msgid "Notify me of completed downloads via Notification Center"
-msgstr "نبهني حول التحميلات المكتملة عبر مركز الإشعارات"
+msgstr "نبهني حول التنزيلات المكتملة عبر مركز الإشعارات"
 
 msgctxt "RPCLocalization|"
 msgid "Only when FDM window is inactive"
@@ -1487,7 +1487,7 @@ msgstr "بإمكانك"
 
 msgctxt "RPCLocalization|"
 msgid "download Chrome here"
-msgstr "تحميل Chrome من هنا"
+msgstr "تنزيل Chrome من هنا"
 
 msgctxt "RPCLocalization|"
 msgid "Use browser if you cancel download via FDM"
@@ -1771,7 +1771,7 @@ msgstr "سيدخل الحاسوب في وضع السبات بعد إكمال ك�
 
 msgctxt "RPCLocalization|"
 msgid "Checking for updates..."
-msgstr "يتحقق من وجود تحديثات..."
+msgstr "تحقق من وجود تحديثات..."
 
 msgctxt "RPCLocalization|"
 msgid "Retry"
@@ -1783,15 +1783,15 @@ msgstr "خطأ:"
 
 msgctxt "RPCLocalization|"
 msgid "Error downloading update:"
-msgstr "خطأ في تحميل التحديث:"
+msgstr "خطأ في تنزيل التحديث:"
 
 msgctxt "RPCLocalization|"
 msgid "Downloading update"
-msgstr "ينزل التحديث"
+msgstr "تنزيل التحديث"
 
 msgctxt "RPCLocalization|"
 msgid "Checking..."
-msgstr "يتحقق..."
+msgstr "تحقق..."
 
 msgctxt "RPCLocalization|"
 msgid "Update downloaded"
@@ -1799,19 +1799,19 @@ msgstr "تم تنزيل التحديث"
 
 msgctxt "RPCLocalization|"
 msgid "Install update"
-msgstr "تثبيت التحديث"
+msgstr "ثبت التحديث"
 
 msgctxt "RPCLocalization|"
 msgid "Installing updates"
-msgstr "جارِ تثبيت التحديثات"
+msgstr "تثبيت التحديثات"
 
 msgctxt "RPCLocalization|"
 msgid "Relaunch FDM to update"
-msgstr "أعد تشغيل FDM للتحديث"
+msgstr "اعد تشغيل FDM للتحديث"
 
 msgctxt "RPCLocalization|"
 msgid "Relaunch"
-msgstr "أعد التشغيل"
+msgstr "اعد التشغيل"
 
 msgctxt "RPCLocalization|"
 msgid "Error occurred during installation:"
@@ -1819,7 +1819,7 @@ msgstr "حدث خطأ أثناء التثبيت:"
 
 msgctxt "RPCLocalization|"
 msgid "Restart computer to complete installation"
-msgstr "إعادة تشغيل الحاسوب لإكمال التثبيت"
+msgstr "اعد تشغيل الحاسوب لإكمال التثبيت"
 
 msgctxt "RPCLocalization|"
 msgid "FDM is up to date!"
@@ -1973,15 +1973,15 @@ msgstr "تلميح"
 
 msgctxt "RPCLocalization|"
 msgid "Computer won't be put to sleep because there are scheduled downloads"
-msgstr "لن يدخل الحاسوب في وضع السكون لأن هناك تنزيلات مجدولة."
+msgstr "لن يدخل الحاسوب في وضع السكون لأن هناك تنزيلات مجدولة"
 
 msgctxt "RPCLocalization|"
 msgid "Scheduler"
-msgstr "الجدولة"
+msgstr "المجدول"
 
 msgctxt "RPCLocalization|"
 msgid "Don't put your computer to sleep if there're scheduled downloads"
-msgstr "لا تدخل الحاسوب في وضع السكون إذا كان هناك تنزيلات مجدولة."
+msgstr "لا تدخل الحاسوب في وضع السكون إذا كان هناك تنزيلات مجدولة"
 
 msgctxt "RPCLocalization|"
 msgid "Press"
@@ -1997,20 +1997,21 @@ msgstr "فحص سلامة الملف"
 
 msgctxt "RPCLocalization|"
 msgid "Calculate"
-msgstr "حساب"
+msgstr "احسب"
 
 msgctxt "RPCLocalization|"
 msgid "Calculating"
-msgstr "يحسب"
+msgstr "حساب"
 
 msgctxt "RPCLocalization|"
 msgid "Verification OK"
-msgstr "تم التحقق"
+msgstr "التحقق سليم"
 
 msgctxt "RPCLocalization|"
 msgid "Verification failed"
 msgstr "فشل التحقق"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Compare with"
 msgstr "مقارنة مع"
@@ -2132,7 +2133,7 @@ msgstr "و"
 
 msgctxt "RPCLocalization|"
 msgid "Automatically remove deleted files from download list"
-msgstr "إزالة الملفات المحذوفة من قائمة التنزيلا تلقائياً"
+msgstr "إزالة الملفات المحذوفة من قائمة التنزيلات تلقائياً"
 
 msgctxt "RPCLocalization|"
 msgid "Some files corrupted"
@@ -2300,7 +2301,7 @@ msgstr "تغيرت أولويات الملف"
 
 msgctxt "TorrentDownload|"
 msgid "Stopping seeding"
-msgstr "يوقف التلقيم"
+msgstr "توقيف التلقيم"
 
 msgctxt "TorrentDownload|"
 msgid "Sequential downloading enabled"
@@ -2316,7 +2317,7 @@ msgstr "المتتبعات دمجت"
 
 msgctxt "TorrentDownload|"
 msgid "Starting seeding"
-msgstr "يبدء التلقيم"
+msgstr "بدء التلقيم"
 
 msgctxt "TorrentDownload|"
 msgid "Unknown error occurred"
@@ -2356,15 +2357,15 @@ msgstr "سرعة الرفع محددة بـ %1/s"
 
 msgctxt "TorrentDownload|"
 msgid "Starting download"
-msgstr "يبدء التنزيل"
+msgstr "بدء التنزيل"
 
 msgctxt "TorrentDownload|"
 msgid "Checking files"
-msgstr "يفحص الملفات"
+msgstr "فحص الملفات"
 
 msgctxt "TorrentDownload|"
 msgid "Downloading"
-msgstr "ينزيل"
+msgstr "تنزيل"
 
 msgctxt "TorrentDownload|"
 msgid "Download complete"
@@ -2398,7 +2399,7 @@ msgstr "تحديث"
 
 msgctxt "TorrentDownload|"
 msgid "Working"
-msgstr "يعمل"
+msgstr "تشغيل"
 
 msgctxt "TorrentDownload|"
 msgid "Metadata received"
@@ -2471,7 +2472,7 @@ msgstr "فتح عند تسجيل الدخول"
 
 msgctxt "TrayMenu|"
 msgid "Launch at startup"
-msgstr "البدء عند بدء التشغيل"
+msgstr "تشغيل عند بدء التشغيل"
 
 msgctxt "TrayMenu|"
 msgid "About FDM"
@@ -2665,7 +2666,7 @@ msgstr "تم نقل الملفات بنجاح"
 #, qt-format
 msgctxt "YoutubeDownload|"
 msgid "Moving to %1"
-msgstr "ينقل إلى %1"
+msgstr "نقل إلى %1"
 
 msgctxt "YoutubeDownload|"
 msgid "Merging failed"
@@ -2695,7 +2696,7 @@ msgstr "بث فيديو: %1"
 
 msgctxt "YoutubeDownload|"
 msgid "Downloading page"
-msgstr "ينزل الصفحة"
+msgstr "تنزيل الصفحة"
 
 msgctxt "YoutubeDownload|"
 msgid "Page is downloaded"
